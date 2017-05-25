@@ -1,2 +1,3 @@
-# helpful-scss-mixins
-Helpful Scss Mixins
+#Helpful Scss Mixins
+
+Compilation of really useful mixins for scss projects.
